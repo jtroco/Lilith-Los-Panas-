@@ -1,17 +1,15 @@
 
 
 # Proyecto HRUN2021: 
-
 Nombre del Equipo: *Los Panas*
 
 Proyecto (código): 
 
 
 ## Resumen
-
+Nació siendo humana. Desarrolló sus facultades como programadora pero quiso dar un paso más allá, incorporando implantaciones digitales en su cuerpo hasta convertirse en una cyborg hacker que roba información a las grandes plataformas de la sociedad, para vendérsela a los más desfavorecidos.
 
 ### Personaje
-
 ![](https://i.imgur.com/6Ol4skc.jpg)
 
 Nombre: Lilith
@@ -26,8 +24,6 @@ El mundo se encuentra dividido en dos: los privilegiados, más conocidos como «
 La alta clase utiliza la información para manipular y controlar al pueblo decidiendo sobre el rumbo de sus vidas y encasillándolos desde su nacimiento. La información actúa como moneda de cambio y arma de doble filo: tener información sobre los demás implica un mayor control sobre los mismos, pero tu propia información te expone ante todo y todos.
 
 ### Conflicto 
-
-
 - Personaje: https://h5p.org/node/1112967
 
 - Banner/Teaser:  (enlace) 
