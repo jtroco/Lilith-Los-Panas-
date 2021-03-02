@@ -1,6 +1,6 @@
 
 
-# Proyecto HRUN2021 (template): 
+# Proyecto HRUN2021: 
 
 Nombre del Equipo: Los Panas
 
