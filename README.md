@@ -1,4 +1,4 @@
-# storytelling
+# Equipo PANA
 Digital Storytelling / Narraciones y creatividad en ecosistema digital, 2020
 
 Actividades y trabajos prácticos de la asignatura de **Creación y Difusión de Nuevos Contenidos Audiovisuales**. 
