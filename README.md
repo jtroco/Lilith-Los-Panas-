@@ -2,7 +2,7 @@
 
 # Proyecto HRUN2021: 
 
-Nombre del Equipo: Los Panas
+Nombre del Equipo: *Los Panas*
 
 Proyecto (código): 
 
@@ -43,9 +43,10 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 -->
 
 - :man: Javier Fernández de Trocóniz Ortega
+- :woman: Sara Fernández Molero 
 - :man: Fernando Javier García Jibaja
 - :woman: Alejandra de los Reyes Hernández Padrón
-- :woman: Sara Fernández Molero 
+
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
