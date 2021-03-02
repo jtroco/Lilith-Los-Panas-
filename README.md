@@ -12,7 +12,7 @@ Proyecto (código):
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://i.imgur.com/6Ol4skc.jpg)
 
 Nombre: Lilith
 
@@ -21,12 +21,14 @@ Nombre: Lilith
 
 
 ### Contexto
+El mundo se encuentra dividido en dos: los privilegiados, más conocidos como «corpos», y los de «clase baja». En esta sociedad la información es poder, y quien la obtenga tendrá el control sobre los demás. Es por ello que más que un sistema económico, su jerarquización se basa en la cantidad y tipo de información que tienen y en cómo esta puede suponer el dominio sobre otros. En medio de esta corrupción se encuentra Lilith quien, mirando por su propio beneficio, hackeará los sistemas para vender información al pueblo, consiguiendo una desestabilización del sistema implantado. 
 
+La alta clase utiliza la información para manipular y controlar al pueblo decidiendo sobre el rumbo de sus vidas y encasillándolos desde su nacimiento. La información actúa como moneda de cambio y arma de doble filo: tener información sobre los demás implica un mayor control sobre los mismos, pero tu propia información te expone ante todo y todos.
 
 ### Conflicto 
 
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: https://h5p.org/node/1112967
 
 - Banner/Teaser:  (enlace) 
 
