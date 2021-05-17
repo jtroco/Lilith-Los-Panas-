@@ -26,9 +26,9 @@ La alta clase utiliza la información para manipular y controlar al pueblo decid
 ### Conflicto 
 - Personaje: https://h5p.org/node/1112967
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser: https://cloud.protopie.io/p/ca34f2cb8a
 
-- Storytelling: (enlace) 
+- Storytelling: https://utopolis.ugr.es/media/HRUN/H/LilithStory_2021/
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
